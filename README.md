@@ -1,1 +1,1 @@
-# Project-Key-Competition-Tasks
+# MVP-Studio-Project-Key-Competition-Tasks
